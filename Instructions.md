@@ -20,24 +20,9 @@ A simple, interactive command-line **Address Book** application in C that allows
 ````
 
 
-## 🔧 Features
+##How to Compile & Run
 
-- Add new contacts with **validation**:
-  - Name input
-  - 10-digit phone number (unique & numeric)
-  - Valid lowercase email (must contain `@` and end with `.com`)
-- Search contacts by:
-  - Name (partial match, case-insensitive)
-  - Phone (exact match)
-  - Email (partial match, case-insensitive)
-- Edit contact fields with re-validation
-- Delete contacts with confirmation
-- Persistent storage using `contacts.csv`
-
-
-## 🏁 How to Compile & Run
-
-### 📌 Compile:
+###Compile:
 ```bash
 gcc main.c contact.c file.c -o addressbook
 ````
