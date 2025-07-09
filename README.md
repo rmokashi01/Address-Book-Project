@@ -7,12 +7,15 @@ A CLI-based contact manager built in C under Emertxe's Advanced C constraints. F
 ## Description
 This Address Book project is a C program that allows users to manage their contacts efficiently. It provides functionality to create, search, edit, delete, and list contacts. The program features robust input validation and persists data by saving contacts to a CSV file.
 
-Key features:
+Features:
 - Contact management with name, phone, and email fields
 - Comprehensive input validation for all fields
 - Case-insensitive search functionality
 - Data persistence through file I/O operations
 - User-friendly menu interface
+
+### Work Flow
+![Flow](https://github.com/user-attachments/assets/9e407f1a-b9f3-4b25-9407-7df6f252cf20)
 
 ## File Structure
 ```
@@ -182,6 +185,5 @@ Enter your choice: 6
 Saving and Exiting...
 Contacts saved to contacts.csv successfully!
 ```
-### Work Flow
-![Flow](https://github.com/user-attachments/assets/9e407f1a-b9f3-4b25-9407-7df6f252cf20)
+
 
