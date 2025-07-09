@@ -20,9 +20,9 @@ A simple, interactive command-line **Address Book** application in C that allows
 ````
 
 
-## How to Compile & Run:
-````
+How to Compile & Run:
 gcc main.c contact.c file.c -o addressbook
+
 ````
 
 ### ▶️ Run:
