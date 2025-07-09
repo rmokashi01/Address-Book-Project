@@ -19,7 +19,6 @@ A simple, interactive command-line **Address Book** application in C that allows
 
 ````
 
----
 
 ## 🔧 Features
 
@@ -35,7 +34,6 @@ A simple, interactive command-line **Address Book** application in C that allows
 - Delete contacts with confirmation
 - Persistent storage using `contacts.csv`
 
----
 
 ## 🏁 How to Compile & Run
 
