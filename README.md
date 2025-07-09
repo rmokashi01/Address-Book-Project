@@ -182,4 +182,6 @@ Enter your choice: 6
 Saving and Exiting...
 Contacts saved to contacts.csv successfully!
 ```
-![Alt text](Flow.jpeg)
+### Work Flow
+![Flow](https://github.com/user-attachments/assets/9e407f1a-b9f3-4b25-9407-7df6f252cf20)
+
