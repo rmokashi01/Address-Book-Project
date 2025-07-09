@@ -22,10 +22,9 @@ A simple, interactive command-line **Address Book** application in C that allows
 
 ##How to Compile & Run
 
-###Compile:
 ```bash
 gcc main.c contact.c file.c -o addressbook
-````
+```
 
 ### ▶️ Run:
 
